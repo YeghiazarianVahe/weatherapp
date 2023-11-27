@@ -23,7 +23,7 @@ This Weather App is a simple Django-based web application that provides current 
 2. Navigate to the project directory:
 
    ```bash
-   cd weather-app
+   cd WeatherApp
    ```
 
 3. Create a virtual environment:
